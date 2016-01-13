@@ -1,0 +1,92 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\select@language {american}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Executive Summary}{9}{chapter*.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Key Observations}{12}{subsection*.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Introduction: The Dawn of the Social Messaging Era}{17}{chapter*.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Objectives and Methods}{20}{section*.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{A Brief History of Chat Apps}{21}{section*.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Facebook: A Company Reinvented for the Messaging Era}{23}{section*.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{A Flow from East to West}{23}{section*.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Regional and Demographic Strongholds}{24}{section*.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Industry Challenges}{25}{section*.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Industry Opportunities}{27}{section*.11}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Key Players and Case Studies}{29}{chapter*.12}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{LINE: Japanese Chat App Spins Fun Visuals into Big Profits}{31}{section*.13}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{BuzzFeed Builds LINE Audience with Push Notifications, Stickers, and Comics}{32}{subsection*.14}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{WeChat: China's Tencent Reinvents the Web Portal for Mobile}{34}{section*.15}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Cliff Central Builds First Radio Channel on a Chat App}{35}{subsection*.16}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Kik: Messaging App for Teens Goes All-In on A.I. Chatbots}{36}{section*.17}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Care to Speak to the Washington Post Chatbot?}{37}{subsection*.18}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{WhatsApp: The No-Frills Messaging App}{38}{section*.19}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{BBC News Using WhatsApp for Newsgathering}{39}{subsection*.20}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Snapchat: The New Home of Sexting\dots and CNN}{42}{section*.21}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{The New York Times Embraces the Selfie}{42}{subsection*.22}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{CNN Courts Millennials With Bespoke Daily Content on Snapchat Discover}{43}{subsection*.23}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Snapchat's Peter Hamby Delivers Crowdsourced News and Selfie-Standups}{46}{subsection*.24}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Viber: Free Calls Conquer the Globe}{48}{section*.25}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{HuffPost Entertainment Team Lets Loose on Public Chats}{49}{subsection*.26}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Telegram: Chat Encryption for the Masses}{50}{section*.27}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Conclusion}{53}{chapter*.28}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Trends Underlying the Popularity of Chat Apps}{55}{section*.29}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{What's the Opportunity?}{55}{section*.30}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Accelerating learning and content innovation on mobile phones}{56}{subsection*.31}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Connecting with hard-to-reach youth audiences}{56}{subsection*.32}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Using WhatsApp as a UGC and newsgathering tool}{56}{subsection*.33}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{What's on the Horizon?}{57}{section*.34}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{The functionality of the platforms will mature}{57}{subsection*.35}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{New ways of telling stories on mobile will emerge}{57}{subsection*.36}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{The growing importance of security, circumvention, and data restrictions}{58}{subsection*.37}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{The emergence of regionalized and local messaging-app ecosystems}{60}{subsection*.38}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{The giants are coming}{60}{subsection*.39}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{The robots are coming, too}{61}{subsection*.40}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Messaging will become like electricity}{62}{subsection*.41}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Further Reading}{65}{chapter*.42}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Glossary}{69}{chapter*.43}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Interviewees}{73}{chapter*.44}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Citations}{77}{chapter*.45}
+\contentsfinish 
