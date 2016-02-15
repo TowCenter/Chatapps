@@ -1,0 +1,788 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.4 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist{nty}{nty}
+    \entry{eMarketerSMS}{online}{}
+      \list{organization}{1}{%
+        {eMarketer}%
+      }
+      \field{sortinit}{A}
+      \field{sortinithash}{c8a29dea43e9d2645817723335a4dbe8}
+      \field{labeltitle}{{Are We Watching the Death of SMS?}}
+      \field{title}{{Are We Watching the Death of SMS?}}
+      \field{year}{2 March 2015}
+      \verb{url}
+      \verb http://www.emarketer.com/Article/Watching-Death-of-SMS/1012124
+      \endverb
+      \warn{\item Datamodel: Entry 'eMarketerSMS' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{BIchatapps}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=ecf00ab907f957a95488b20e4be2f770}{Ballve}{B\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=ecf00ab907f957a95488b20e4be2f770}{Ballve}{B\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{ecf00ab907f957a95488b20e4be2f770}
+      \strng{fullhash}{ecf00ab907f957a95488b20e4be2f770}
+      \field{sortinit}{B}
+      \field{sortinithash}{1a3a21dbed09540af12d49a0b14f4751}
+      \field{labeltitle}{{Messaging Apps Are Overtaking Social Networks to Become the Dominant Platforms on Phones}}
+      \field{entrysubtype}{magazine}
+      \field{journaltitle}{Business Insider}
+      \field{title}{{Messaging Apps Are Overtaking Social Networks to Become the Dominant Platforms on Phones}}
+      \field{year}{10 April 2015}
+      \verb{url}
+      \verb http://www.businessinsider.com/messaging-apps-have-completely-overtaken-social-networks-to-become-the-dominant-platforms-on-phones-2015-4
+      \endverb
+      \warn{\item Datamodel: Entry 'BIchatapps' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{BarotEbola}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=55d4160529c016b3697290eb1b7f933e}{Barot}{B\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=55d4160529c016b3697290eb1b7f933e}{Barot}{B\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{55d4160529c016b3697290eb1b7f933e}
+      \strng{fullhash}{55d4160529c016b3697290eb1b7f933e}
+      \field{sortinit}{B}
+      \field{sortinithash}{1a3a21dbed09540af12d49a0b14f4751}
+      \field{labeltitle}{{How BBC Ebola WhatsApp Service is Battling Virus and Finding Great Stories}}
+      \field{entrysubtype}{magazine}
+      \field{journaltitle}{BBC College of Journalism}
+      \field{title}{{How BBC Ebola WhatsApp Service is Battling Virus and Finding Great Stories}}
+      \field{year}{5 February 2015}
+      \verb{url}
+      \verb http://www.bbc.co.uk/blogs/collegeofjournalism/entries/0f944ab7-9f96-4091-a927-db826630d997
+      \endverb
+      \warn{\item Datamodel: Entry 'BarotEbola' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{BBCWhatsApp}{online}{}
+      \list{organization}{1}{%
+        {BBC News}%
+      }
+      \field{sortinit}{B}
+      \field{sortinithash}{1a3a21dbed09540af12d49a0b14f4751}
+      \field{labeltitle}{{BBC Have Your Say on WhatsApp}}
+      \field{title}{{BBC Have Your Say on WhatsApp}}
+      \field{year}{27 February 2015}
+      \verb{url}
+      \verb http://www.bbc.co.uk/news/world-30821245
+      \endverb
+      \warn{\item Datamodel: Entry 'BBCWhatsApp' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{TelegramBots}{online}{}
+      \list{organization}{1}{%
+        {Telegram}%
+      }
+      \field{sortinit}{B}
+      \field{sortinithash}{1a3a21dbed09540af12d49a0b14f4751}
+      \field{labeltitle}{{Bots: An Introduction for Developers}}
+      \field{title}{{Bots: An Introduction for Developers}}
+      \verb{url}
+      \verb https://core.telegram.org/bots
+      \endverb
+      \warn{\item Datamodel: Entry 'TelegramBots' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{FCInsideSnapchat}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=bb212b9c263911ef9501033dd31f0c30}{Carr}{C\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=bb212b9c263911ef9501033dd31f0c30}{Carr}{C\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{bb212b9c263911ef9501033dd31f0c30}
+      \strng{fullhash}{bb212b9c263911ef9501033dd31f0c30}
+      \field{sortinit}{C}
+      \field{sortinithash}{dd0e4ddd17488a6ebf12cd6de2f2c237}
+      \field{labeltitle}{{Inside Snapchat CEO Evan Spiegel's Entertainment Empire}}
+      \field{entrysubtype}{magazine}
+      \field{journaltitle}{Fast Company}
+      \field{title}{{Inside Snapchat CEO Evan Spiegel's Entertainment Empire}}
+      \field{year}{19 October 2015}
+      \verb{url}
+      \verb http://www.fastcompany.com/3051612/innovation-agents/media-tech-and-advertising-to-snapchat-i-aint-afraid-of-no-ghost
+      \endverb
+      \warn{\item Datamodel: Entry 'FCInsideSnapchat' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{TelegramChannels}{online}{}
+      \list{organization}{1}{%
+        {Telegram}%
+      }
+      \field{sortinit}{C}
+      \field{sortinithash}{dd0e4ddd17488a6ebf12cd6de2f2c237}
+      \field{labeltitle}{{Channels: Broadcasting Done Right}}
+      \field{title}{{Channels: Broadcasting Done Right}}
+      \field{year}{22 September 2015}
+      \verb{url}
+      \verb https://telegram.org/blog/channels
+      \endverb
+      \warn{\item Datamodel: Entry 'TelegramChannels' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{ForbesKik}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=1243fed244bcea9411e8915c7b2d32c1}{Chaykowski}{C\bibinitperiod}{K.}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=1243fed244bcea9411e8915c7b2d32c1}{Chaykowski}{C\bibinitperiod}{K.}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{1243fed244bcea9411e8915c7b2d32c1}
+      \strng{fullhash}{1243fed244bcea9411e8915c7b2d32c1}
+      \field{sortinit}{C}
+      \field{sortinithash}{dd0e4ddd17488a6ebf12cd6de2f2c237}
+      \field{labeltitle}{{Kik, the Teen Messaging Giant, to Focus an U.S. and Viral Ads}}
+      \field{entrysubtype}{magazine}
+      \field{journaltitle}{Forbes}
+      \field{title}{{Kik, the Teen Messaging Giant, to Focus an U.S. and Viral Ads}}
+      \field{year}{6 October 2015}
+      \verb{url}
+      \verb http://www.forbes.com/sites/kathleenchaykowski/2015/10/06/kik-the-teen-messaging-giant-to-focus-on-u-s-and-making-ads-go-viral/
+      \endverb
+      \warn{\item Datamodel: Entry 'ForbesKik' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{BILINE}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=95c1b7a81b20ce5990d7c9a4f426c006}{Cook}{C\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=95c1b7a81b20ce5990d7c9a4f426c006}{Cook}{C\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{95c1b7a81b20ce5990d7c9a4f426c006}
+      \strng{fullhash}{95c1b7a81b20ce5990d7c9a4f426c006}
+      \field{sortinit}{C}
+      \field{sortinithash}{dd0e4ddd17488a6ebf12cd6de2f2c237}
+      \field{labeltitle}{{Japanese Messaging App LINE is Blowing Up, and These Stats Prove It}}
+      \field{entrysubtype}{magazine}
+      \field{journaltitle}{Business Insider}
+      \field{title}{{Japanese Messaging App LINE is Blowing Up, and These Stats Prove It}}
+      \field{year}{3 March 2015}
+      \verb{url}
+      \verb http://www.businessinsider.com/interview-with-jeanie-han-from-line-2015-3
+      \endverb
+      \warn{\item Datamodel: Entry 'BILINE' (ChatAppsCitations.bib): Invalid format '29 October 2015' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{BBCNepal}{online}{}
+      \name{labelname}{2}{}{%
+        {{hash=808dbbc520fe3427f9bdf47bb70bec38}{Daye}{D\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=3dbd138eff6eec7b213c144ca774f00a}{Irvine-Brown}{I\bibinithyphendelim B\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=808dbbc520fe3427f9bdf47bb70bec38}{Daye}{D\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=3dbd138eff6eec7b213c144ca774f00a}{Irvine-Brown}{I\bibinithyphendelim B\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {BBC News}%
+      }
+      \strng{namehash}{76eececd1cabc8260d069b832cb85381}
+      \strng{fullhash}{76eececd1cabc8260d069b832cb85381}
+      \field{sortinit}{D}
+      \field{sortinithash}{a01c54d1737685bc6dbf0ea0673fa44c}
+      \field{labeltitle}{{Nepal Quake: What Happens to Those Trying to Help?}}
+      \field{title}{{Nepal Quake: What Happens to Those Trying to Help?}}
+      \field{year}{12 May 2015}
+      \verb{url}
+      \verb http://www.bbc.com/news/world-asia-32711653
+      \endverb
+      \warn{\item Datamodel: Entry 'BBCNepal' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{FCSnapchat}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=49351d1b3e0cc9d6a6bb65bc9aec6fe0}{Dugdale}{D\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=49351d1b3e0cc9d6a6bb65bc9aec6fe0}{Dugdale}{D\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{49351d1b3e0cc9d6a6bb65bc9aec6fe0}
+      \strng{fullhash}{49351d1b3e0cc9d6a6bb65bc9aec6fe0}
+      \field{sortinit}{D}
+      \field{sortinithash}{a01c54d1737685bc6dbf0ea0673fa44c}
+      \field{labeltitle}{{Snapchat Attempts to Move on From Its Sexting Reputation with Stories}}
+      \field{entrysubtype}{magazine}
+      \field{journaltitle}{Fast Company}
+      \field{title}{{Snapchat Attempts to Move on From Its Sexting Reputation with Stories}}
+      \field{year}{3 October 2013}
+      \verb{url}
+      \verb http://www.fastcompany.com/3019233/fast-feed/snapchat-attempts-to-move-on-from-its-sexting-reputation-with-stories
+      \endverb
+      \warn{\item Datamodel: Entry 'FCSnapchat' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{BenEvansChatApps}{online}{}
+      \name{labelname}{1}{}{%
+        {{hash=e20d2ae59d44956e851fd5d1109a8939}{Evans}{E\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=e20d2ae59d44956e851fd5d1109a8939}{Evans}{E\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {ben-evans.com}%
+      }
+      \strng{namehash}{e20d2ae59d44956e851fd5d1109a8939}
+      \strng{fullhash}{e20d2ae59d44956e851fd5d1109a8939}
+      \field{sortinit}{E}
+      \field{sortinithash}{655e26c7438ff123e5c69c6c3f702107}
+      \field{labeltitle}{{Messaging and Mobile Platforms}}
+      \field{entrysubtype}{magazine}
+      \field{title}{{Messaging and Mobile Platforms}}
+      \field{year}{30 March 2015}
+      \verb{url}
+      \verb http://ben-evans.com/benedictevans/2015/3/24/the-state-of-messaging
+      \endverb
+      \warn{\item Datamodel: Entry 'BenEvansChatApps' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{BenEvansWhatsApp}{online}{}
+      \name{labelname}{1}{}{%
+        {{hash=e20d2ae59d44956e851fd5d1109a8939}{Evans}{E\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=e20d2ae59d44956e851fd5d1109a8939}{Evans}{E\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {ben-evans.com}%
+      }
+      \strng{namehash}{e20d2ae59d44956e851fd5d1109a8939}
+      \strng{fullhash}{e20d2ae59d44956e851fd5d1109a8939}
+      \field{sortinit}{E}
+      \field{sortinithash}{655e26c7438ff123e5c69c6c3f702107}
+      \field{labeltitle}{{WhatsApp Sails Past SMS, but Where Does Messaging Go Next?}}
+      \field{entrysubtype}{magazine}
+      \field{title}{{WhatsApp Sails Past SMS, but Where Does Messaging Go Next?}}
+      \field{year}{11 January 2015}
+      \verb{url}
+      \verb http://ben-evans.com/benedictevans/2015/1/11/whatsapp-sails-past-sms-but-where-does-messaging-go-next
+      \endverb
+      \warn{\item Datamodel: Entry 'BenEvansWhatsApp' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{FacebookMessenger}{online}{}
+      \name{labelname}{1}{}{%
+        {{hash=d7ca9c27931ee4ad533c66e87803c6cc}{Franklin}{F\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=d7ca9c27931ee4ad533c66e87803c6cc}{Franklin}{F\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {Facebook}%
+      }
+      \strng{namehash}{d7ca9c27931ee4ad533c66e87803c6cc}
+      \strng{fullhash}{d7ca9c27931ee4ad533c66e87803c6cc}
+      \field{sortinit}{F}
+      \field{sortinithash}{9661cce5f16ac30b6b0c804d4583ed99}
+      \field{labeltitle}{{Introducing Messenger Platform and Businesses on Messenger}}
+      \field{entrysubtype}{magazine}
+      \field{title}{{Introducing Messenger Platform and Businesses on Messenger}}
+      \field{year}{25 March 2015}
+      \verb{url}
+      \verb https://developers.facebook.com/blog/post/2015/03/25/introducing-messenger-platform-and-businesses-on-messenger/
+      \endverb
+      \warn{\item Datamodel: Entry 'FacebookMessenger' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{SnapchatDiscover}{online}{}
+      \list{organization}{1}{%
+        {Snapchat}%
+      }
+      \field{sortinit}{I}
+      \field{sortinithash}{b2e302e575c74beffcc96ef7059003aa}
+      \field{labeltitle}{{Introducing Discover}}
+      \field{title}{{Introducing Discover}}
+      \field{year}{27 January 2015}
+      \verb{url}
+      \verb http://blog.snapchat.com/post/109302961090/introducing-discover
+      \endverb
+      \warn{\item Datamodel: Entry 'SnapchatDiscover' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{RecodeBuzzfeed}{online}{}
+      \name{labelname}{1}{}{%
+        {{hash=112aac491351ad26b80a16f8d3e0995a}{Kulwin}{K\bibinitperiod}{N.}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=112aac491351ad26b80a16f8d3e0995a}{Kulwin}{K\bibinitperiod}{N.}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {re/code}%
+      }
+      \strng{namehash}{112aac491351ad26b80a16f8d3e0995a}
+      \strng{fullhash}{112aac491351ad26b80a16f8d3e0995a}
+      \field{sortinit}{K}
+      \field{sortinithash}{33bf4c961fa093ee6a297ccbd88eacc0}
+      \field{labeltitle}{{This Week on \mkbibquote{Re/code Decode}: CEO Jonah Peretti Explains How BuzzFeed Won the Internet (Updated)}}
+      \field{entrysubtype}{magazine}
+      \field{title}{{This Week on \mkbibquote{Re/code Decode}: CEO Jonah Peretti Explains How BuzzFeed Won the Internet (Updated)}}
+      \field{year}{16 September 2015}
+      \verb{url}
+      \verb http://recode.net/2015/09/16/this-week-on-recode-decode-ceo-jonah-peretti-explains-how-buzzfeed-won-the-internet/
+      \endverb
+      \warn{\item Datamodel: Entry 'RecodeBuzzfeed' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{Line2014results}{online}{}
+      \list{organization}{1}{%
+        {LINE}%
+      }
+      \field{sortinit}{L}
+      \field{sortinithash}{c41a2b5886eeae464e75d1a9df4cd13e}
+      \field{labeltitle}{{LINE Corporation Announces 2014 Fiscal Year Results}}
+      \field{title}{{LINE Corporation Announces 2014 Fiscal Year Results}}
+      \field{year}{29 January 2015}
+      \verb{url}
+      \verb https://linecorp.com/en/pr/news/en/2015/915
+      \endverb
+      \warn{\item Datamodel: Entry 'Line2014results' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{BBCNewsChatApps}{online}{}
+      \name{labelname}{1}{}{%
+        {{hash=8800ba77463a32a8cdb6a9987b17513a}{{Links\bibnamedelimb to\bibnamedelimb blogs\bibnamedelimb and\bibnamedelimb stories\bibnamedelimb about\bibnamedelimb BBC\bibnamedelimb News\bibnamedelimb and\bibnamedelimb instant\bibnamedelimb messaging\bibnamedelimb platforms}}{L\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=8800ba77463a32a8cdb6a9987b17513a}{{Links\bibnamedelimb to\bibnamedelimb blogs\bibnamedelimb and\bibnamedelimb stories\bibnamedelimb about\bibnamedelimb BBC\bibnamedelimb News\bibnamedelimb and\bibnamedelimb instant\bibnamedelimb messaging\bibnamedelimb platforms}}{L\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {Anonymous}%
+      }
+      \strng{namehash}{8800ba77463a32a8cdb6a9987b17513a}
+      \strng{fullhash}{8800ba77463a32a8cdb6a9987b17513a}
+      \field{sortinit}{L}
+      \field{sortinithash}{c41a2b5886eeae464e75d1a9df4cd13e}
+      \field{year}{2015}
+      \verb{url}
+      \verb http://bit.ly/BBCNewsChatApps
+      \endverb
+      \warn{\item Datamodel: Entry 'BBCNewsChatApps' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{MediumKik}{online}{}
+      \name{labelname}{1}{}{%
+        {{hash=d7612fd3270125be73e4393c565c6b5e}{Livingston}{L\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=d7612fd3270125be73e4393c565c6b5e}{Livingston}{L\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {Medium}%
+      }
+      \strng{namehash}{d7612fd3270125be73e4393c565c6b5e}
+      \strng{fullhash}{d7612fd3270125be73e4393c565c6b5e}
+      \field{sortinit}{L}
+      \field{sortinithash}{c41a2b5886eeae464e75d1a9df4cd13e}
+      \field{labeltitle}{{The Race to Become the WeChat of the West}}
+      \field{entrysubtype}{magazine}
+      \field{title}{{The Race to Become the WeChat of the West}}
+      \field{year}{27 November 2014}
+      \verb{url}
+      \verb https://medium.com/@tedlivingston/the-race-to-become-the-wechat-of-the-west-3fe52c8db946#.x763pp7fk
+      \endverb
+      \warn{\item Datamodel: Entry 'MediumKik' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{TechCrunch}{online}{}
+      \name{labelname}{1}{}{%
+        {{hash=e22c5b609950f238fedd8574bb625480}{Lomas}{L\bibinitperiod}{N.}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=e22c5b609950f238fedd8574bb625480}{Lomas}{L\bibinitperiod}{N.}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {TechCrunch}%
+      }
+      \strng{namehash}{e22c5b609950f238fedd8574bb625480}
+      \strng{fullhash}{e22c5b609950f238fedd8574bb625480}
+      \field{sortinit}{L}
+      \field{sortinithash}{c41a2b5886eeae464e75d1a9df4cd13e}
+      \field{labeltitle}{{Telegram Now Seeing 12BN Daily Messages, Up From 1BN In February}}
+      \field{entrysubtype}{magazine}
+      \field{title}{{Telegram Now Seeing 12BN Daily Messages, Up From 1BN In February}}
+      \field{year}{21 September 2015}
+      \verb{url}
+      \verb http://techcrunch.com/2015/09/21/telegram-now-seeing-12bn-daily-messages-up-from-1m-in-february/
+      \endverb
+      \warn{\item Datamodel: Entry 'TechCrunch' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{CNNCliff}{online}{}
+      \name{labelname}{1}{}{%
+        {{hash=978da94a8102d2c206f47fe8dc02ab8f}{Macguire}{M\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=978da94a8102d2c206f47fe8dc02ab8f}{Macguire}{M\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {CNN}%
+      }
+      \strng{namehash}{978da94a8102d2c206f47fe8dc02ab8f}
+      \strng{fullhash}{978da94a8102d2c206f47fe8dc02ab8f}
+      \field{sortinit}{M}
+      \field{sortinithash}{4203d16473bc940d4ac780773cb7c5dd}
+      \field{labeltitle}{{South Africa Shock Jock's \mkbibquote{Uncensored, Un-radio} Station on WeChat}}
+      \field{entrysubtype}{magazine}
+      \field{title}{{South Africa Shock Jock's \mkbibquote{Uncensored, Un-radio} Station on WeChat}}
+      \field{year}{5 December 2014}
+      \verb{url}
+      \verb http://edition.cnn.com/2014/12/05/business/wechat-cliff-central-radio-south-africa/
+      \endverb
+      \warn{\item Datamodel: Entry 'CNNCliff' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{NYTbots}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=53e7fe2fa18d7156f5ab136db96279f5}{Markoff}{M\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=4da004e8d58853c9a81e33a3671036a3}{Mozur}{M\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=53e7fe2fa18d7156f5ab136db96279f5}{Markoff}{M\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=4da004e8d58853c9a81e33a3671036a3}{Mozur}{M\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{d2ebf6d9e684afd5a5d06e9fbb9f65ac}
+      \strng{fullhash}{d2ebf6d9e684afd5a5d06e9fbb9f65ac}
+      \field{sortinit}{M}
+      \field{sortinithash}{4203d16473bc940d4ac780773cb7c5dd}
+      \field{labeltitle}{{For Sympathetic Ear, More Chinese Turn to Smartphone Program}}
+      \field{entrysubtype}{magazine}
+      \field{journaltitle}{The New York Times}
+      \field{title}{{For Sympathetic Ear, More Chinese Turn to Smartphone Program}}
+      \field{year}{31 July 2015}
+      \verb{url}
+      \verb http://www.nytimes.com/2015/08/04/science/for-sympathetic-ear-more-chinese-turn-to-smartphone-program.html
+      \endverb
+      \warn{\item Datamodel: Entry 'NYTbots' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{Meeker2015}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=9fba56bbda26f12fe0c12037b014a2f1}{Meeker}{M\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=9fba56bbda26f12fe0c12037b014a2f1}{Meeker}{M\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {Kleiner Perkins Caufield Byers}%
+      }
+      \strng{namehash}{9fba56bbda26f12fe0c12037b014a2f1}
+      \strng{fullhash}{9fba56bbda26f12fe0c12037b014a2f1}
+      \field{sortinit}{M}
+      \field{sortinithash}{4203d16473bc940d4ac780773cb7c5dd}
+      \field{labeltitle}{{Internet Trends 2015---Code Conference}}
+      \field{entrysubtype}{magazine}
+      \field{title}{{Internet Trends 2015---Code Conference}}
+      \field{year}{27 May 2015}
+      \verb{url}
+      \verb http://www.kpcb.com/internet-trends
+      \endverb
+      \warn{\item Datamodel: Entry 'Meeker2015' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{WSJKik}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=3ab395a841cd44eb4a133329f8f46575}{Mims}{M\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=3ab395a841cd44eb4a133329f8f46575}{Mims}{M\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{3ab395a841cd44eb4a133329f8f46575}
+      \strng{fullhash}{3ab395a841cd44eb4a133329f8f46575}
+      \field{sortinit}{M}
+      \field{sortinithash}{4203d16473bc940d4ac780773cb7c5dd}
+      \field{labeltitle}{{Advertising's New Frontier: Talk to the Bot}}
+      \field{entrysubtype}{magazine}
+      \field{journaltitle}{The Wall Street Journal}
+      \field{title}{{Advertising's New Frontier: Talk to the Bot}}
+      \field{year}{27 July 2014}
+      \verb{url}
+      \verb http://www.wsj.com/articles/advertisings-new-frontier-talk-to-the-bot-1406493740
+      \endverb
+      \warn{\item Datamodel: Entry 'WSJKik' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{NYTsnapchat}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=2b6c2af95aa20ced46935f212fa05e36}{Minsberg}{M\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=2b6c2af95aa20ced46935f212fa05e36}{Minsberg}{M\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{2b6c2af95aa20ced46935f212fa05e36}
+      \strng{fullhash}{2b6c2af95aa20ced46935f212fa05e36}
+      \field{sortinit}{M}
+      \field{sortinithash}{4203d16473bc940d4ac780773cb7c5dd}
+      \field{labeltitle}{{Snapchat: A New Mobile Challenge for Storytelling}}
+      \field{entrysubtype}{magazine}
+      \field{journaltitle}{The New York Times}
+      \field{title}{{Snapchat: A New Mobile Challenge for Storytelling}}
+      \field{year}{18 May 2015}
+      \verb{url}
+      \verb http://www.nytimes.com/times-insider/2015/05/18/snapchat-a-new-mobile-challenge-for-storytelling/?_r=1
+      \endverb
+      \warn{\item Datamodel: Entry 'NYTsnapchat' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{DigidaySnapchat}{online}{}
+      \name{labelname}{1}{}{%
+        {{hash=80f6fa51c5be0e7a61f9d22095d2c35a}{Moses}{M\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=80f6fa51c5be0e7a61f9d22095d2c35a}{Moses}{M\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {Digiday}%
+      }
+      \strng{namehash}{80f6fa51c5be0e7a61f9d22095d2c35a}
+      \strng{fullhash}{80f6fa51c5be0e7a61f9d22095d2c35a}
+      \field{sortinit}{M}
+      \field{sortinithash}{4203d16473bc940d4ac780773cb7c5dd}
+      \field{labeltitle}{{Snapchat Tweak Boosts Traffic for Publishers: \mkbibquote{Our Views Have Doubled}}}
+      \field{entrysubtype}{magazine}
+      \field{title}{{Snapchat Tweak Boosts Traffic for Publishers: \mkbibquote{Our Views Have Doubled}}}
+      \field{year}{28 July 2015}
+      \verb{url}
+      \verb http://digiday.com/publishers/snapchat-design-change-boosts-traffic-publishers-views-doubled/
+      \endverb
+      \warn{\item Datamodel: Entry 'DigidaySnapchat' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{MashableChatApps}{online}{}
+      \name{labelname}{1}{}{%
+        {{hash=11b52f0a2949520df24de0511b8d2528}{Petronzio}{P\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=11b52f0a2949520df24de0511b8d2528}{Petronzio}{P\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {Mashable}%
+      }
+      \strng{namehash}{11b52f0a2949520df24de0511b8d2528}
+      \strng{fullhash}{11b52f0a2949520df24de0511b8d2528}
+      \field{sortinit}{P}
+      \field{sortinithash}{b8af9282ac256b81613dc9012a0ac921}
+      \field{labeltitle}{{A Brief History of Instant Messaging}}
+      \field{entrysubtype}{magazine}
+      \field{title}{{A Brief History of Instant Messaging}}
+      \field{year}{25 October 2012}
+      \verb{url}
+      \verb http://mashable.com/2012/10/25/instant-messaging-history/#on374oUArEqo
+      \endverb
+      \warn{\item Datamodel: Entry 'MashableChatApps' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{KUTSnapchatElection}{online}{}
+      \name{labelname}{1}{}{%
+        {{hash=340f9d6dc4bf59b56f66c49e2a85de26}{Philpott}{P\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=340f9d6dc4bf59b56f66c49e2a85de26}{Philpott}{P\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {KUT}%
+      }
+      \strng{namehash}{340f9d6dc4bf59b56f66c49e2a85de26}
+      \strng{fullhash}{340f9d6dc4bf59b56f66c49e2a85de26}
+      \field{sortinit}{P}
+      \field{sortinithash}{b8af9282ac256b81613dc9012a0ac921}
+      \field{labeltitle}{{The Ticket: The Snapchat Election}}
+      \field{entrysubtype}{magazine}
+      \field{title}{{The Ticket: The Snapchat Election}}
+      \field{year}{21 October 2015}
+      \verb{url}
+      \verb http://kut.org/post/ticket-snapchat-election
+      \endverb
+      \warn{\item Datamodel: Entry 'KUTSnapchatElection' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{TechCrunchBots}{online}{}
+      \name{labelname}{1}{}{%
+        {{hash=3ec1bc7fe3bc28c228b4ea6723d0dca2}{Sheth}{S\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=3ec1bc7fe3bc28c228b4ea6723d0dca2}{Sheth}{S\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{3ec1bc7fe3bc28c228b4ea6723d0dca2}
+      \strng{fullhash}{3ec1bc7fe3bc28c228b4ea6723d0dca2}
+      \field{sortinit}{S}
+      \field{sortinithash}{4125bb4c3a0eb3eaee3ea6da32eb70c8}
+      \field{labeltitle}{{Forget Apps, Now The Bots Take Over}}
+      \field{entrysubtype}{magazine}
+      \field{title}{{Forget Apps, Now The Bots Take Over}}
+      \field{year}{29 September 2015}
+      \verb{url}
+      \verb http://techcrunch.com/2015/09/29/forget-apps-now-the-bots-take-over/
+      \endverb
+      \warn{\item Datamodel: Entry 'TechCrunchBots' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{DigidayCosmo}{online}{}
+      \name{labelname}{1}{}{%
+        {{hash=52af470534fba4c6122bf7a9a29868b0}{Sloane}{S\bibinitperiod}{G.}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=52af470534fba4c6122bf7a9a29868b0}{Sloane}{S\bibinitperiod}{G.}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {Digiday}%
+      }
+      \strng{namehash}{52af470534fba4c6122bf7a9a29868b0}
+      \strng{fullhash}{52af470534fba4c6122bf7a9a29868b0}
+      \field{sortinit}{S}
+      \field{sortinithash}{4125bb4c3a0eb3eaee3ea6da32eb70c8}
+      \field{labeltitle}{{Cosmo is Getting 3 Million Readers a Day on Snapchat Discover}}
+      \field{entrysubtype}{magazine}
+      \field{title}{{Cosmo is Getting 3 Million Readers a Day on Snapchat Discover}}
+      \field{year}{14 October 2015}
+      \verb{url}
+      \verb http://digiday.com/platforms/cosmo-says-getting-3-million-readers-snapchat-discover/
+      \endverb
+      \warn{\item Datamodel: Entry 'DigidayCosmo' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{FacebookWhatsApp}{online}{}
+      \list{organization}{1}{%
+        {Facebook}%
+      }
+      \field{sortinit}{S}
+      \field{sortinithash}{4125bb4c3a0eb3eaee3ea6da32eb70c8}
+      \field{labeltitle}{{Status Update}}
+      \field{title}{{Status Update}}
+      \field{year}{3 September 2015}
+      \verb{url}
+      \verb https://www.facebook.com/jan.koum/posts/10153580960970011
+      \endverb
+      \warn{\item Datamodel: Entry 'FacebookWhatsApp' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{TencentResults}{online}{}
+      \list{organization}{1}{%
+        {Tencent}%
+      }
+      \field{sortinit}{T}
+      \field{sortinithash}{9378dd666f3c24d81538df53aa99e23d}
+      \field{labeltitle}{{Tencent Announces 2015 Second Quarter and Interim Results}}
+      \field{title}{{Tencent Announces 2015 Second Quarter and Interim Results}}
+      \field{year}{12 August 2015}
+      \verb{url}
+      \verb http://www.tencent.com/en-us/content/ir/news/2015/attachments/20150812.pdf
+      \endverb
+      \warn{\item Datamodel: Entry 'TencentResults' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{MagidStudy}{online}{}
+      \list{organization}{1}{%
+        {Magid}%
+      }
+      \field{sortinit}{T}
+      \field{sortinithash}{9378dd666f3c24d81538df53aa99e23d}
+      \field{labeltitle}{{The Magid Social Media Study 2014}}
+      \field{title}{{The Magid Social Media Study 2014}}
+      \field{year}{2014}
+      \verb{url}
+      \verb http://www.magid.com/sites/default/files/pdf/20141230MagidSocialMediaStudy2014KeyFindings.pdf
+      \endverb
+      \warn{\item Datamodel: Entry 'MagidStudy' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{EngadgetFacebook}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=57b894486a4d252a04b10fa9770136b4}{Trew}{T\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=57b894486a4d252a04b10fa9770136b4}{Trew}{T\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {Engadget}%
+      }
+      \strng{namehash}{57b894486a4d252a04b10fa9770136b4}
+      \strng{fullhash}{57b894486a4d252a04b10fa9770136b4}
+      \field{sortinit}{T}
+      \field{sortinithash}{9378dd666f3c24d81538df53aa99e23d}
+      \field{labeltitle}{{Facebook Tests \mkbibquote{Reactions}, a Like Button With More Emotions}}
+      \field{entrysubtype}{magazine}
+      \field{title}{{Facebook Tests \mkbibquote{Reactions}, a Like Button With More Emotions}}
+      \field{year}{8 October 2015}
+      \verb{url}
+      \verb http://www.engadget.com/2015/10/08/facebook-tests-reactions-a-like-button-with-more-emotions/
+      \endverb
+      \warn{\item Datamodel: Entry 'EngadgetFacebook' (ChatAppsCitations.bib): Invalid format '29 October 2015' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{BingXiaoIce}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=ca5d600de8805ebfa1ec9769bb4cf0b2}{Weitz}{W\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=ca5d600de8805ebfa1ec9769bb4cf0b2}{Weitz}{W\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{ca5d600de8805ebfa1ec9769bb4cf0b2}
+      \strng{fullhash}{ca5d600de8805ebfa1ec9769bb4cf0b2}
+      \field{sortinit}{W}
+      \field{sortinithash}{e560dae78a85a037c3da51c61467873a}
+      \field{labeltitle}{{Meet XiaoIce, Cortana's Little Sister}}
+      \field{entrysubtype}{magazine}
+      \field{title}{{Meet XiaoIce, Cortana's Little Sister}}
+      \field{year}{5 September 2014}
+      \verb{url}
+      \verb https://blogs.bing.com/search/2014/09/05/meet-xiaoice-cortanas-little-sister/
+      \endverb
+      \warn{\item Datamodel: Entry 'BingXiaoIce' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{WhatsAppWeb}{online}{}
+      \name{labelname}{1}{}{%
+        {{hash=5da595ce3a2ff2c4baca97932193e9a1}{{WhatsApp\bibnamedelimb Web}}{W\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=5da595ce3a2ff2c4baca97932193e9a1}{{WhatsApp\bibnamedelimb Web}}{W\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{5da595ce3a2ff2c4baca97932193e9a1}
+      \strng{fullhash}{5da595ce3a2ff2c4baca97932193e9a1}
+      \field{sortinit}{W}
+      \field{sortinithash}{e560dae78a85a037c3da51c61467873a}
+      \verb{url}
+      \verb https://web.whatsapp.com/
+      \endverb
+    \endentry
+    \entry{AVCwhatjusthappened}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=cc029cc5ef73350fa25769160b6e73c8}{Wilson}{W\bibinitperiod}{F.}{F\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=cc029cc5ef73350fa25769160b6e73c8}{Wilson}{W\bibinitperiod}{F.}{F\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{cc029cc5ef73350fa25769160b6e73c8}
+      \strng{fullhash}{cc029cc5ef73350fa25769160b6e73c8}
+      \field{sortinit}{W}
+      \field{sortinithash}{e560dae78a85a037c3da51c61467873a}
+      \field{labeltitle}{{What Just Happened?}}
+      \field{entrysubtype}{magazine}
+      \field{journaltitle}{AVC}
+      \field{title}{{What Just Happened?}}
+      \field{year}{31 December 2014}
+      \verb{url}
+      \verb http://avc.com/2014/12/what-just-happened/
+      \endverb
+      \warn{\item Datamodel: Entry 'AVCwhatjusthappened' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{AppAnnie}{online}{}
+      \list{organization}{1}{%
+        {App Annie}%
+      }
+      \field{sortinit}{W}
+      \field{sortinithash}{e560dae78a85a037c3da51c61467873a}
+      \field{labeltitle}{{Worldwide App Annie Index for Apps June 2015}}
+      \field{title}{{Worldwide App Annie Index for Apps June 2015}}
+      \field{year}{23 July 2015}
+      \verb{url}
+      \verb http://blog.appannie.com/worldwide-app-annie-index-apps-june-2015/
+      \endverb
+      \warn{\item Datamodel: Entry 'AppAnnie' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{BBCYikYak}{online}{}
+      \list{organization}{1}{%
+        {BBC News}%
+      }
+      \field{sortinit}{Y}
+      \field{sortinithash}{29d12db4e709b19996b4b797fbeec132}
+      \field{labeltitle}{{Young Canadians' Hopes for a New Era Under Trudeau}}
+      \field{title}{{Young Canadians' Hopes for a New Era Under Trudeau}}
+      \field{year}{20 October 2015}
+      \verb{url}
+      \verb http://www.bbc.co.uk/news/world-us-canada-34578079
+      \endverb
+      \warn{\item Datamodel: Entry 'BBCYikYak' (ChatAppsCitations.bib): Invalid format '29 October 2015' of date field 'urldate' - ignoring}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+

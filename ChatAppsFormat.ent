@@ -1,0 +1,216 @@
+\@doanenote {1}
+macro:->\protecting
+{\blxmkbibnote
+{end}{\blxciteicmd
+{smartcite}{}{}{AVCwhatjusthappened}{}}}
+\@endanenote 
+\@doanenote {2}
+macro:->\protecting
+{\blxmkbibnote
+{end}{\blxciteicmd
+{smartcite}{}{}{BIchatapps}{}}}
+\@endanenote 
+\@doanenote {3}
+macro:->\protecting
+{\blxmkbibnote
+{end}{\blxciteicmd
+{smartcite}{}{}{Meeker2015}{}}}
+\@endanenote 
+\@doanenote {4}
+macro:->\protecting
+{\blxmkbibnote
+{end}{\blxciteicmd
+{smartcite}{}{}{eMarketerSMS}{}}}
+\@endanenote 
+\@doanenote {5}
+macro:->\protecting
+{\blxmkbibnote
+{end}{\blxciteicmd
+{smartcite}{}{}{BenEvansWhatsApp}{}}}
+\@endanenote 
+\@doanenote {6}
+macro:->\protecting
+{\blxmkbibnote
+{end}{\blxciteicmd
+{smartcite}{}{}{BILINE}{}}}
+\@endanenote 
+\@doanenote {7}
+macro:->\protecting
+{\blxmkbibnote
+{end}{\blxciteicmd
+{smartcite}{}{}{AppAnnie}{}}}
+\@endanenote 
+\@doanenote {8}
+macro:->\protecting
+{\blxmkbibnote
+{end}{\blxciteicmd
+{smartcite}{}{}{Line2014results}{}}}
+\@endanenote 
+\@doanenote {9}
+macro:->\protecting
+{\blxmkbibnote
+{end}{\blxciteicmd
+{smartcite}{}{}{EngadgetFacebook}{}}}
+\@endanenote 
+\@doanenote {10}
+macro:->\protecting
+{\blxmkbibnote
+{end}{\blxciteicmd
+{smartcite}{}{}{TencentResults}{}}}
+\@endanenote 
+\@doanenote {11}
+macro:->\protecting
+{\blxmkbibnote
+{end}{\blxciteicmd
+{smartcite}{}{}{CNNCliff}{}}}
+\@endanenote 
+\@doanenote {12}
+macro:->\protecting
+{\blxmkbibnote
+{end}{\blxciteicmd
+{smartcite}{}{}{MediumKik}{}}}
+\@endanenote 
+\@doanenote {13}
+macro:->\protecting
+{\blxmkbibnote
+{end}{\blxciteicmd
+{smartcite}{}{}{ForbesKik}{}}}
+\@endanenote 
+\@doanenote {14}
+macro:->\protecting
+{\blxmkbibnote
+{end}{\blxciteicmd
+{smartcite}{}{}{WSJKik}{}}}
+\@endanenote 
+\@doanenote {15}
+macro:->\protecting
+{\blxmkbibnote
+{end}{\blxciteicmd
+{smartcite}{}{}{FacebookWhatsApp}{}}}
+\@endanenote 
+\@doanenote {16}
+macro:->\protecting
+{\blxmkbibnote
+{end}{\blxciteicmd
+{smartcite}{}{}{BarotEbola}{}}}
+\@endanenote 
+\@doanenote {17}
+macro:->\protecting
+{\blxmkbibnote
+{end}{\blxciteicmd
+{smartcite}{}{}{BBCWhatsApp}{}}}
+\@endanenote 
+\@doanenote {18}
+macro:->\protecting
+{\blxmkbibnote
+{end}{\blxciteicmd
+{smartcite}{}{}{WhatsAppWeb}{}}}
+\@endanenote 
+\@doanenote {19}
+macro:->\protecting
+{\blxmkbibnote
+{end}{\blxciteicmd
+{smartcite}{}{}{BBCNepal}{}}}
+\@endanenote 
+\@doanenote {20}
+macro:->\protecting
+{\blxmkbibnote
+{end}{\blxciteicmd
+{smartcite}{}{}{FCSnapchat}{}}}
+\@endanenote 
+\@doanenote {21}
+macro:->\protecting
+{\blxmkbibnote
+{end}{\blxciteicmd
+{smartcite}{}{}{NYTsnapchat}{}}}
+\@endanenote 
+\@doanenote {22}
+macro:->\protecting
+{\blxmkbibnote
+{end}{\blxciteicmd
+{smartcite}{}{}{SnapchatDiscover}{}}}
+\@endanenote 
+\@doanenote {23}
+macro:->\protecting
+{\blxmkbibnote
+{end}{\blxciteicmd
+{smartcite}{}{}{SnapchatDiscover}{}}}
+\@endanenote 
+\@doanenote {24}
+macro:->\protecting
+{\blxmkbibnote
+{end}{\blxciteicmd
+{smartcite}{}{}{DigidaySnapchat}{}}}
+\@endanenote 
+\@doanenote {25}
+macro:->\protecting
+{\blxmkbibnote
+{end}{\blxciteicmd
+{smartcite}{}{}{RecodeBuzzfeed}{}}}
+\@endanenote 
+\@doanenote {26}
+macro:->\protecting
+{\blxmkbibnote
+{end}{\blxciteicmd
+{smartcite}{}{}{DigidayCosmo}{}}}
+\@endanenote 
+\@doanenote {27}
+macro:->\protecting
+{\blxmkbibnote
+{end}{\blxciteicmd
+{smartcite}{}{}{KUTSnapchatElection}{}}}
+\@endanenote 
+\@doanenote {28}
+macro:->\protecting
+{\blxmkbibnote
+{end}{\blxciteicmd
+{smartcite}{}{}{KUTSnapchatElection}{}}}
+\@endanenote 
+\@doanenote {29}
+macro:->\protecting
+{\blxmkbibnote
+{end}{\blxciteicmd
+{smartcite}{}{}{KUTSnapchatElection}{}}}
+\@endanenote 
+\@doanenote {30}
+macro:->\protecting
+{\blxmkbibnote
+{end}{\blxciteicmd
+{smartcite}{}{}{TelegramChannels}{}}}
+\@endanenote 
+\@doanenote {31}
+macro:->\protecting
+{\blxmkbibnote
+{end}{\blxciteicmd
+{smartcite}{}{}{TelegramBots}{}}}
+\@endanenote 
+\@doanenote {32}
+macro:->\protecting
+{\blxmkbibnote
+{end}{\blxciteicmd
+{smartcite}{}{}{TechCrunch}{}}}
+\@endanenote 
+\@doanenote {33}
+macro:->\protecting
+{\blxmkbibnote
+{end}{\blxciteicmd
+{smartcite}{}{}{MagidStudy}{}}}
+\@endanenote 
+\@doanenote {34}
+macro:->\protecting
+{\blxmkbibnote
+{end}{\blxciteicmd
+{smartcite}{}{}{BBCYikYak}{}}}
+\@endanenote 
+\@doanenote {35}
+macro:->\protecting
+{\blxmkbibnote
+{end}{\blxciteicmd
+{smartcite}{}{}{FacebookMessenger}{}}}
+\@endanenote 
+\@doanenote {36}
+macro:->\protecting
+{\blxmkbibnote
+{end}{\blxciteicmd
+{smartcite}{}{}{BingXiaoIce}{}}}
+\@endanenote 

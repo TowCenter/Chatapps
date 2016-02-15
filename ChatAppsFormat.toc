@@ -26,7 +26,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{LINE: Japanese Chat App Spins Fun Visuals into Big Profits}{31}{section*.13}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{BuzzFeed Builds LINE Audience with Push Notifications, Stickers, and Comics}{32}{subsection*.14}
+\contentsline {subsection}{BuzzFeed Builds LINE Audience with Push Notifications, \newline Stickers, and Comics}{32}{subsection*.14}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{WeChat: China's Tencent Reinvents the Web Portal for Mobile}{34}{section*.15}
 \defcounter {refsection}{0}\relax 
@@ -40,7 +40,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{BBC News Using WhatsApp for Newsgathering}{39}{subsection*.20}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Snapchat: The New Home of Sexting\dots and CNN}{42}{section*.21}
+\contentsline {section}{Snapchat: The New Home of Sexting \dots and CNN}{42}{section*.21}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{The New York Times Embraces the Selfie}{42}{subsection*.22}
 \defcounter {refsection}{0}\relax 

@@ -1,0 +1,5 @@
+[0] Config.pm:320> INFO - This is Biber 1.9
+[1] Config.pm:323> INFO - Logfile is 'ChatApps.blg'
+[105] biber-darwin:277> INFO - === Mon Feb 15, 2016, 10:09:42
+[143] Utils.pm:160> ERROR - Cannot find control file 'ChatApps.bcf'! - did you pass the "backend=biber" option to BibLaTeX?
+[143] Biber.pm:110> INFO - ERRORS: 1
