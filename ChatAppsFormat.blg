@@ -1,56 +1,56 @@
 [0] Config.pm:320> INFO - This is Biber 1.9
-[0] Config.pm:323> INFO - Logfile is 'ChatAppsFormat.blg'
-[58] biber-darwin:277> INFO - === Mon Feb 15, 2016, 10:31:00
-[59] Biber.pm:333> INFO - Reading 'ChatAppsFormat.bcf'
-[159] Biber.pm:635> INFO - Found 39 citekeys in bib section 0
-[194] Biber.pm:3051> INFO - Processing section 0
-[224] Biber.pm:3189> INFO - Looking for bibtex format file 'ChatAppsCitations.bib' for section 0
-[230] bibtex.pm:990> INFO - Decoding LaTeX character macros into UTF-8
-[235] bibtex.pm:864> INFO - Found BibTeX data source 'ChatAppsCitations.bib'
-[256] Utils.pm:144> WARN - Datamodel: Entry 'BBCNewsChatApps' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring
-[258] Utils.pm:144> WARN - Datamodel: Entry 'BenEvansChatApps' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring
-[260] Utils.pm:144> WARN - Datamodel: Entry 'MashableChatApps' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring
-[262] Utils.pm:144> WARN - Datamodel: Entry 'MediumKik' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring
-[264] Utils.pm:144> WARN - Datamodel: Entry 'TechCrunchBots' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring
-[266] Utils.pm:144> WARN - Datamodel: Entry 'NYTbots' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring
-[267] Utils.pm:144> WARN - Datamodel: Entry 'FCInsideSnapchat' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring
-[272] Utils.pm:144> WARN - Datamodel: Entry 'BILINE' (ChatAppsCitations.bib): Invalid format '29 October 2015' of date field 'urldate' - ignoring
-[274] Utils.pm:144> WARN - Datamodel: Entry 'EngadgetFacebook' (ChatAppsCitations.bib): Invalid format '29 October 2015' of date field 'urldate' - ignoring
-[275] Utils.pm:144> WARN - Datamodel: Entry 'BBCYikYak' (ChatAppsCitations.bib): Invalid format '29 October 2015' of date field 'urldate' - ignoring
-[277] Utils.pm:144> WARN - Datamodel: Entry 'AVCwhatjusthappened' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring
-[278] Utils.pm:144> WARN - Datamodel: Entry 'BIchatapps' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring
-[280] Utils.pm:144> WARN - Datamodel: Entry 'Meeker2015' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring
-[281] Utils.pm:144> WARN - Datamodel: Entry 'eMarketerSMS' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring
-[282] Utils.pm:144> WARN - Datamodel: Entry 'BenEvansWhatsApp' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring
-[283] Utils.pm:144> WARN - Datamodel: Entry 'AppAnnie' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring
-[284] Utils.pm:144> WARN - Datamodel: Entry 'Line2014results' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring
-[285] Utils.pm:144> WARN - Datamodel: Entry 'TencentResults' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring
-[286] Utils.pm:144> WARN - Datamodel: Entry 'CNNCliff' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring
-[287] Utils.pm:144> WARN - Datamodel: Entry 'ForbesKik' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring
-[288] Utils.pm:144> WARN - Datamodel: Entry 'WSJKik' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring
-[289] Utils.pm:144> WARN - Datamodel: Entry 'FacebookWhatsApp' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring
-[290] Utils.pm:144> WARN - Datamodel: Entry 'BarotEbola' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring
-[291] Utils.pm:144> WARN - Datamodel: Entry 'BBCWhatsApp' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring
-[294] Utils.pm:144> WARN - Datamodel: Entry 'BBCNepal' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring
-[296] Utils.pm:144> WARN - Datamodel: Entry 'FCSnapchat' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring
-[298] Utils.pm:144> WARN - Datamodel: Entry 'NYTsnapchat' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring
-[299] Utils.pm:144> WARN - Datamodel: Entry 'SnapchatDiscover' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring
-[301] Utils.pm:144> WARN - Datamodel: Entry 'DigidaySnapchat' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring
-[302] Utils.pm:144> WARN - Datamodel: Entry 'RecodeBuzzfeed' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring
-[304] Utils.pm:144> WARN - Datamodel: Entry 'DigidayCosmo' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring
-[306] Utils.pm:144> WARN - Datamodel: Entry 'KUTSnapchatElection' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring
-[307] Utils.pm:144> WARN - Datamodel: Entry 'TelegramChannels' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring
-[307] Utils.pm:144> WARN - Datamodel: Entry 'TelegramBots' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring
-[309] Utils.pm:144> WARN - Datamodel: Entry 'TechCrunch' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring
-[310] Utils.pm:144> WARN - Datamodel: Entry 'MagidStudy' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring
-[311] Utils.pm:144> WARN - Datamodel: Entry 'FacebookMessenger' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring
-[312] Utils.pm:144> WARN - Datamodel: Entry 'BingXiaoIce' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring
-[322] Utils.pm:144> WARN - The field 'year' in entry 'TelegramBots' cannot be null, deleting it
-[323] Utils.pm:144> WARN - The field 'journaltitle' in entry 'BingXiaoIce' cannot be null, deleting it
-[900] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[900] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[900] Biber.pm:2928> INFO - Sorting list 'nty' of type 'entry' with scheme 'nty' and locale 'en-US'
-[900] Biber.pm:2932> INFO - No sort tailoring available for locale 'en-US'
-[1082] bbl.pm:517> INFO - Writing 'ChatAppsFormat.bbl' with encoding 'UTF-8'
-[1088] bbl.pm:606> INFO - Output to ChatAppsFormat.bbl
-[1089] Biber.pm:106> INFO - WARNINGS: 40
+[1] Config.pm:323> INFO - Logfile is 'ChatAppsFormat.blg'
+[56] biber-darwin:277> INFO - === Mon Feb 15, 2016, 11:18:39
+[57] Biber.pm:333> INFO - Reading 'ChatAppsFormat.bcf'
+[160] Biber.pm:635> INFO - Found 39 citekeys in bib section 0
+[195] Biber.pm:3051> INFO - Processing section 0
+[220] Biber.pm:3189> INFO - Looking for bibtex format file 'ChatAppsCitations.bib' for section 0
+[224] bibtex.pm:990> INFO - Decoding LaTeX character macros into UTF-8
+[228] bibtex.pm:864> INFO - Found BibTeX data source 'ChatAppsCitations.bib'
+[246] Utils.pm:144> WARN - Datamodel: Entry 'BBCNewsChatApps' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring
+[247] Utils.pm:144> WARN - Datamodel: Entry 'BenEvansChatApps' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring
+[248] Utils.pm:144> WARN - Datamodel: Entry 'MashableChatApps' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring
+[249] Utils.pm:144> WARN - Datamodel: Entry 'MediumKik' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring
+[250] Utils.pm:144> WARN - Datamodel: Entry 'TechCrunchBots' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring
+[253] Utils.pm:144> WARN - Datamodel: Entry 'NYTbots' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring
+[254] Utils.pm:144> WARN - Datamodel: Entry 'FCInsideSnapchat' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring
+[255] Utils.pm:144> WARN - Datamodel: Entry 'BILINE' (ChatAppsCitations.bib): Invalid format '29 October 2015' of date field 'urldate' - ignoring
+[256] Utils.pm:144> WARN - Datamodel: Entry 'EngadgetFacebook' (ChatAppsCitations.bib): Invalid format '29 October 2015' of date field 'urldate' - ignoring
+[257] Utils.pm:144> WARN - Datamodel: Entry 'BBCYikYak' (ChatAppsCitations.bib): Invalid format '29 October 2015' of date field 'urldate' - ignoring
+[258] Utils.pm:144> WARN - Datamodel: Entry 'AVCwhatjusthappened' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring
+[259] Utils.pm:144> WARN - Datamodel: Entry 'BIchatapps' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring
+[260] Utils.pm:144> WARN - Datamodel: Entry 'Meeker2015' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring
+[261] Utils.pm:144> WARN - Datamodel: Entry 'eMarketerSMS' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring
+[262] Utils.pm:144> WARN - Datamodel: Entry 'BenEvansWhatsApp' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring
+[263] Utils.pm:144> WARN - Datamodel: Entry 'AppAnnie' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring
+[263] Utils.pm:144> WARN - Datamodel: Entry 'Line2014results' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring
+[264] Utils.pm:144> WARN - Datamodel: Entry 'TencentResults' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring
+[265] Utils.pm:144> WARN - Datamodel: Entry 'CNNCliff' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring
+[266] Utils.pm:144> WARN - Datamodel: Entry 'ForbesKik' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring
+[267] Utils.pm:144> WARN - Datamodel: Entry 'WSJKik' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring
+[268] Utils.pm:144> WARN - Datamodel: Entry 'FacebookWhatsApp' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring
+[269] Utils.pm:144> WARN - Datamodel: Entry 'BarotEbola' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring
+[270] Utils.pm:144> WARN - Datamodel: Entry 'BBCWhatsApp' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring
+[272] Utils.pm:144> WARN - Datamodel: Entry 'BBCNepal' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring
+[273] Utils.pm:144> WARN - Datamodel: Entry 'FCSnapchat' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring
+[274] Utils.pm:144> WARN - Datamodel: Entry 'NYTsnapchat' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring
+[275] Utils.pm:144> WARN - Datamodel: Entry 'SnapchatDiscover' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring
+[276] Utils.pm:144> WARN - Datamodel: Entry 'DigidaySnapchat' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring
+[277] Utils.pm:144> WARN - Datamodel: Entry 'RecodeBuzzfeed' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring
+[278] Utils.pm:144> WARN - Datamodel: Entry 'DigidayCosmo' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring
+[279] Utils.pm:144> WARN - Datamodel: Entry 'KUTSnapchatElection' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring
+[280] Utils.pm:144> WARN - Datamodel: Entry 'TelegramChannels' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring
+[280] Utils.pm:144> WARN - Datamodel: Entry 'TelegramBots' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring
+[281] Utils.pm:144> WARN - Datamodel: Entry 'TechCrunch' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring
+[282] Utils.pm:144> WARN - Datamodel: Entry 'MagidStudy' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring
+[283] Utils.pm:144> WARN - Datamodel: Entry 'FacebookMessenger' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring
+[284] Utils.pm:144> WARN - Datamodel: Entry 'BingXiaoIce' (ChatAppsCitations.bib): Invalid format '27 October 2015' of date field 'urldate' - ignoring
+[293] Utils.pm:144> WARN - The field 'year' in entry 'TelegramBots' cannot be null, deleting it
+[293] Utils.pm:144> WARN - The field 'journaltitle' in entry 'BingXiaoIce' cannot be null, deleting it
+[844] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[844] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[844] Biber.pm:2928> INFO - Sorting list 'nty' of type 'entry' with scheme 'nty' and locale 'en-US'
+[844] Biber.pm:2932> INFO - No sort tailoring available for locale 'en-US'
+[1022] bbl.pm:517> INFO - Writing 'ChatAppsFormat.bbl' with encoding 'UTF-8'
+[1027] bbl.pm:606> INFO - Output to ChatAppsFormat.bbl
+[1027] Biber.pm:106> INFO - WARNINGS: 40

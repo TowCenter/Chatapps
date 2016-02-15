@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014) (preloaded format=xelatex 2015.2.16)  15 FEB 2016 11:15
+This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014) (preloaded format=xelatex 2015.2.16)  15 FEB 2016 11:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1931,13 +1931,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [51]
 [52] [53
 
-] [54]
-Overfull \hbox (36.37456pt too wide) in paragraph at lines 1008--1008
-|\EU1/FranklinGothicMedium(0)/m/n/19 Trends Underlying the Popularity of Chat A
-pps| 
- []
-
-[55]
+] [54] [55]
 Overfull \hbox (16.8145pt too wide) in paragraph at lines 1028--1028
 |\EU1/FranklinGothicMedium(0)/m/n/13 Accelerating learning and content innovati
 on on mobile phones| 
@@ -2173,10 +2167,10 @@ Package logreq Info: Writing requests to 'ChatAppsFormat.run.xml'.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1203.
  ) 
 Here is how much of TeX's memory you used:
- 32469 strings out of 495177
- 589692 string characters out of 6175607
+ 32463 strings out of 495177
+ 589656 string characters out of 6175607
  1193177 words of memory out of 5000000
- 35282 multiletter control sequences out of 15000+600000
+ 35276 multiletter control sequences out of 15000+600000
  44817 words of font info for 67 fonts, out of 8000000 for 9000
  321 hyphenation exceptions out of 8191
  62i,13n,61p,10446b,2854s stack positions out of 5000i,500n,10000p,200000b,80000s
